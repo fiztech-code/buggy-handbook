@@ -31,5 +31,7 @@ ie.  actual speed is 21kmh, which falls between 18kmh(index:3) and 24kmh(index:4
 | Wheels              | - Front: Quadboss Governor Wheel 12x7, 4/110, 5+2<br/> - Rear: Quadboss Governor Wheel 12x7, 4/110, 2+5 |                      
 | Shifter Bearings    | - 1/2" pillow block<br/> - F6800-2RS Flanged Ball Bearing 10x19x5mm<br/> - 8mm Rod End Bearing Female |
 | Engine              | 2001 Honda CBR600F4i |
+| EFI Module          | Power Commander IIIr Serial |
 | Radiator            | 2000 Honda Civic |
 | Cluster Connectors  | TYCO 174046-2 (Yamaha YZF-R6)<br/> 2.8MM 9 PIN WAY (Honda CBR600F4i) |
+
