@@ -24,5 +24,9 @@ ie.  actual speed is 21kmh, which falls between 18kmh(index:3) and 24kmh(index:4
 |---------------------|-----------|
 | Front Brake Disks   | 2006 Polaris Hawkeye 300 2wd Front Brakes |
 | Front Calipers      | - 2014-2022 Polaris RZR XP 1000 Rear Brake Caliper<br/> - Flange bolts m10x1.25 20mm 10.9 | 
+| Front Wheel Bearings | - Inner: 25x52x15 Sealed |
+| Rear Wheel Bearings | 1999 VW Golf Front Wheel Bearing |
 | Wheels              | - Front: Quadboss Governor Wheel 12x7, 4/110, 5+2<br/> - Rear: Quadboss Governor Wheel 12x7, 4/110, 2+5 |                      
-| Shifter Bearings    | - 1/2" pillow block<br/> - F6800-2RS Flanged Ball Bearing 10x19x5mm<br/> - 8mm Rod End Bearing Female  |
+| Shifter Bearings    | - 1/2" pillow block<br/> - F6800-2RS Flanged Ball Bearing 10x19x5mm<br/> - 8mm Rod End Bearing Female |
+| Engine              | 2001 Honda CBR600F4i |
+| Radiator            | 2000 Honda Civic |
