@@ -12,7 +12,7 @@ cbr outputs all parameters as analog values, yzf is using k-line serial comm for
 - fuel level requires resister
 
 #### Speed Mapping
-yamaha cluster accepts speed values from 0-47, internally these values to 0-299 it takes 6x messages to send speed value
+yamaha cluster accepts speed values from 0-47, internally maps these values to 0-299, it takes 6x messages to send speed value
 
 ie.  actual speed is 21kmh, which falls between 18kmh(index:3) and 24kmh(index:4) therefore we need to send 3x messages with speed value:4, then send 3x messages with speed value:3 to get desired result 21 on cluster
 
