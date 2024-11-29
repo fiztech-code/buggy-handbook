@@ -132,7 +132,7 @@ void loop() {
   if (millis() > spdUpdate) {
     if (spdTime < 1500000 && spdTime > 25000) {      
       spdFloat = (0.00207 / spdTime * 3600000000);      
-      spdFloat = mapFloat(spdFloat, 0, 299, 0, 47);      
+      //spdFloat = mapFloat(spdFloat, 0, 299, 0, 47);  // mapped using spd_map
       real_spd = round(spdFloat);      
     }
     
