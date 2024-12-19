@@ -34,4 +34,5 @@ ie.  actual speed is 21kmh, which falls between 18kmh(index:3) and 24kmh(index:4
 | EFI Module          | Power Commander IIIr Serial |
 | Radiator            | 2000 Honda Civic |
 | Cluster Connectors  | TYCO 174046-2 (Yamaha YZF-R6)<br/> 2.8MM 9 PIN WAY (Honda CBR600F4i) |
+| Rear Sway Bar   | 05-11 Kawasaki Brute Force 650i/750i Rear Stabilizer Sway Bar
 
